@@ -1,0 +1,36 @@
+h1{
+    color: #F16529;
+    font-size: 3em;
+    
+}
+
+h2{
+    color: #599596;
+    font-size: 2.2em;
+    
+}
+p{
+    font-size: 1.2em;
+}
+nav li{
+    font-size: 1.2em;
+    display: inline;
+    margin-right: 20px;
+}
+header{
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+}
+img {
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+h3{
+    font-size: 1.5em;
+}
